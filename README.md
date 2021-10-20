@@ -9,4 +9,8 @@
 두 개의 값 입력   
 > a, b = input().aplit() → int 변환을 추가로 진행해야 함   
 > a, b = map(int, input().split())   
-
+   
+   
+cf. markdown 사용법   
+> 줄 바꿈: 띄어쓰기x3번   
+> 인용구 표시: ">"
