@@ -8,6 +8,6 @@ Original file is located at
 """
 
 a, b = map(int, input().split())
-sum = a-b
+result = a-b
 
-print(sum)
+print(result)
